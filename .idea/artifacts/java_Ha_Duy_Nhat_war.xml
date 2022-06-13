@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="java-Ha-Duy-Nhat:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>java-Ha-Duy-Nhat</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="java-Ha-Duy-Nhat-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="java-Ha-Duy-Nhat:war exploded" />
+    </root>
+  </artifact>
+</component>
